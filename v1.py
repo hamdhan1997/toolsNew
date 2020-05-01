@@ -17,14 +17,14 @@ else:
         os.system('pip2 install requests')
         
 def entertools():
-	os.system('sh babi_buat_yang_ngerecode_thanks.sh')
+	os.system('sh kontolmu_cilik.sh')
 
 def restart():
     ngulang = sys.executable
     os.execl(ngulang, ngulang, *sys.argv)
 
 def wa():
-    os.system('xdg-open https://api.whatsapp.com/send?phone=62895704349609&text=Assalamualaikum')
+    os.system('xdg-open https://api.whatsapp.com/send?phone=6285642215238&text=Assalamualaikum')
 
 def menutools():
 	os.system ('clear')
@@ -100,9 +100,9 @@ elif pilih == 2:
 	print '\n\033[1;37mTerimakasih Telah Menggunakan Tools Ini ^_^'
 elif pilih == 3:
 	tik()
-	os.system ('bash babi_lu.sh')
+	os.system ('bash bangsat.sh')
 elif pilih == 4:
-	os.system('xdg-open https://adsafelink.com/9RRWZ')
+	os.system('xdg-open https://adsafelink.com/hWB7qlj2Y')
 elif pilih == 0:
 	os.system('clear')
 	print '\033[1;37mTerimakasih Telah Menggunakan Tools Ini ^_^'
